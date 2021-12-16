@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 30 30"
+   style="enable-background:new 0 0 30 30;"
+   xml:space="preserve"
+   sodipodi:docname="s3cloud.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs53" /><sodipodi:namedview
+   id="namedview51"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="16"
+   inkscape:cx="23.3125"
+   inkscape:cy="19.59375"
+   inkscape:window-width="1920"
+   inkscape:window-height="1016"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" /><style
+   id="stylish-2"
+   class="stylish"
+   type="text/css">
+/* TODO */
+textarea[aria-label=&quot;TODO&quot;],
+.js-list:nth-child(1) .card-composer-container .icon-sm,
+.js-list:nth-child(2) .card-composer-container .js-add-another-card {
+    color: white;
+}
+
+.js-list:nth-child(1) &gt; .js-list-content  {
+    background-color: tomato;
+}
+
+/* DOING */
+textarea[aria-label=&quot;DOING&quot;],
+.js-list:nth-child(2) .card-composer-container .icon-sm,
+.js-list:nth-child(3) .card-composer-container .js-add-another-card   {
+    color: white;
+}
+
+.js-list:nth-child(2) &gt; .js-list-content  {
+    background-color: royalblue;
+}
+
+/* DONE */
+textarea[aria-label=&quot;DONE&quot;],
+.js-list:nth-child(4) .card-composer-container .icon-sm,
+.js-list:nth-child(5) .card-composer-container .js-add-another-card   {
+    color: white;
+}
+
+.js-list:nth-child(4) .js-list-content  {
+    background-color: #4CAF50;
+}
+
+/* OLD */
+textarea[aria-label=&quot;OLD&quot;],
+.js-list:nth-child(5) .card-composer-container .icon-sm,
+.js-list:nth-child(5) .card-composer-container .js-add-another-card   {
+    color: white;
+}
+
+.js-list:nth-child(5) .js-list-content  {
+    background-color: darkGreen;
+}
+
+.js-add-list {
+    display: none;
+}
+
+#board {
+    display: flex;
+    justify-content: center;
+}</style>
+
+<g
+   id="g2498"
+   transform="matrix(0.51812011,0,0,0.50926414,-3.1346267,-2.8259067)"
+   style="fill:#008000">
+	<g
+   id="g2496"
+   style="fill:#008000">
+		<g
+   id="g2494"
+   style="fill:#008000">
+			<g
+   id="g2488"
+   style="fill:#008000">
+				<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#146eb4"
+   d="m 63.95,15.786 c 0,4.006 -12.963,7.238 -28.949,7.238 -15.988,0 -28.951,-3.232 -28.951,-7.238 l 9.65,43.839 c 0,2.672 8.637,4.826 19.301,4.826 10.662,0 19.299,-2.154 19.299,-4.826 v 0 z"
+   id="path2486"
+   style="fill:#008000" />
+			</g>
+			<g
+   id="g2492"
+   style="fill:#008000">
+				<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#146eb4"
+   d="m 63.95,15.786 c 0,-4.004 -12.963,-7.237 -28.949,-7.237 -15.988,0 -28.951,3.233 -28.951,7.237 0,4.006 12.963,7.238 28.951,7.238 15.986,0 28.949,-3.232 28.949,-7.238 z"
+   id="path2490"
+   style="fill:#5cad5c;fill-opacity:1" />
+			</g>
+		</g>
+	</g>
+</g><path
+   d="m 5.3081554,20.204021 c 0,-1.115156 0.3331172,-2.104251 0.9993516,-2.976981 0.6662344,-0.872731 1.5082807,-1.435158 2.535392,-1.677583 0.2868509,-1.32849 0.9438321,-2.414555 1.952437,-3.267892 1.008604,-0.853337 2.174515,-1.280005 3.479224,-1.280005 1.276949,0 2.415099,0.416971 3.414451,1.241217 0.999352,0.824246 1.647079,1.890917 1.943184,3.190316 h 0.305357 c 0.832793,0 1.600813,0.213334 2.304061,0.630305 0.703247,0.416972 1.267696,0.998792 1.674839,1.735765 0.407143,0.736973 0.619968,1.532127 0.619968,2.404858 0,0.853337 -0.194318,1.648492 -0.582955,2.375767 -0.388637,0.727276 -0.925326,1.309096 -1.600813,1.745462 -0.675488,0.436365 -1.425002,0.669093 -2.230035,0.698184 H 9.7497181 C 8.5097818,24.965252 7.4641639,24.470705 6.6036112,23.539792 5.7430584,22.618576 5.3081554,21.50342 5.3081554,20.204021 Z m 1.5823067,0 c 0,0.84364 0.2775977,1.570916 0.832793,2.191524 0.5551953,0.620609 1.230683,0.950307 2.026463,0.998792 H 20.104111 c 0.79578,-0.03879 1.471267,-0.378183 2.026463,-0.998792 0.564448,-0.620608 0.842046,-1.357581 0.842046,-2.191524 0,-0.853337 -0.305358,-1.580612 -0.906819,-2.201221 -0.601462,-0.620608 -1.313962,-0.930913 -2.146755,-0.930913 h -1.480521 c -0.101786,0 -0.157306,-0.05818 -0.157306,-0.174546 l -0.06477,-0.552729 c -0.101788,-1.047277 -0.536691,-1.929705 -1.295458,-2.637587 -0.758767,-0.707881 -1.637826,-1.066671 -2.646431,-1.066671 -1.008605,0 -1.896918,0.35879 -2.637178,1.066671 -0.749514,0.707882 -1.175163,1.59031 -1.267696,2.637587 l -0.07403,0.552729 c 0,0.116364 -0.06477,0.174546 -0.185065,0.174546 H 9.6201725 c -0.7772735,0.09697 -1.4250014,0.446063 -1.9431837,1.03758 -0.5181823,0.591518 -0.7865267,1.289702 -0.7865267,2.094554 z"
+   id="path48"
+   style="fill:#ffffff;stroke-width:0.947253"
+   sodipodi:nodetypes="sscssscsssssscccssscccssssccsscccscss" /><style
+   id="stylish-2-6"
+   class="stylish"
+   type="text/css">
+/* TODO */
+textarea[aria-label=&quot;TODO&quot;],
+.js-list:nth-child(1) .card-composer-container .icon-sm,
+.js-list:nth-child(2) .card-composer-container .js-add-another-card {
+    color: white;
+}
+
+.js-list:nth-child(1) &gt; .js-list-content  {
+    background-color: tomato;
+}
+
+/* DOING */
+textarea[aria-label=&quot;DOING&quot;],
+.js-list:nth-child(2) .card-composer-container .icon-sm,
+.js-list:nth-child(3) .card-composer-container .js-add-another-card   {
+    color: white;
+}
+
+.js-list:nth-child(2) &gt; .js-list-content  {
+    background-color: royalblue;
+}
+
+/* DONE */
+textarea[aria-label=&quot;DONE&quot;],
+.js-list:nth-child(4) .card-composer-container .icon-sm,
+.js-list:nth-child(5) .card-composer-container .js-add-another-card   {
+    color: white;
+}
+
+.js-list:nth-child(4) .js-list-content  {
+    background-color: #4CAF50;
+}
+
+/* OLD */
+textarea[aria-label=&quot;OLD&quot;],
+.js-list:nth-child(5) .card-composer-container .icon-sm,
+.js-list:nth-child(5) .card-composer-container .js-add-another-card   {
+    color: white;
+}
+
+.js-list:nth-child(5) .js-list-content  {
+    background-color: darkGreen;
+}
+
+.js-add-list {
+    display: none;
+}
+
+#board {
+    display: flex;
+    justify-content: center;
+}</style></svg>

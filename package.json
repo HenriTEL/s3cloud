@@ -1,0 +1,25 @@
+{
+  "name": "s3cloud",
+  "version": "0.0.0",
+  "main": "dist/s3cloud.es.js",
+  "exports": {
+    ".": "./dist/s3cloud.es.js"
+  },
+  "types": "types/s3cloud.d.ts",
+  "files": [
+    "dist",
+    "types"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "release": "tsc && vite build"
+  },
+  "dependencies": {
+    "@shoelace-style/shoelace": "^2.0.0-beta.62",
+    "lit": "^2.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "vite": "^2.7.2"
+  }
+}
